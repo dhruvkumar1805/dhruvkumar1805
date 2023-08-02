@@ -1,18 +1,18 @@
-<h3 align="left"> Hi there, I'm Dhruv Chhura. </h3>
+<h2 align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Dhruv Chhura. </h2>
 
-An Developer From India.<br>
-- Maintaining Redmi S2/Y2 for [CipherOS](https://github.com/CipherOS).
-- I'm Currently learning **JavaScript**.
-- Love to play around Technology.
-- Languages/Tools I know are **C, Python, HTML5, CSS3, Linux, Git, Scripting through bash**.
-- How to reach me: [Telegram](https://t.me/DhruvChhura).
+- 🏫 I’m currently a student of **BCA** at **Chandigarh University**.
+- 📱 Maintaining **Redmi S2/Y2** for [**CipherOS**](https://github.com/CipherOS).
+- 💻 I'm Currently learning **ReactJS**.
+- ✔️ Languages/Tools I know are **C, HTML5, CSS3, BootStrap, JavaScript, Linux, Git, Shell programming (bash)**.
+- 📫 How to reach me: [**Telegram**](https://t.me/DhruvChhura).
 
-![](https://komarev.com/ghpvc/?username=DhruvChhura)
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=DhruvChhura"/>
+</p>
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=DhruvChhura&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry&border_color=000000" alt="Dhruv's Github Stats"/><br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvChhura&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Dhruv's Github Stats"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvchhura&layout=compact&langs_count=8&theme=tokyonight" alt="Dhruv's Github Stats"/>
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DhruvChhura&theme=redical">
-</p>
+[![Dhruv's Holopin board](https://holopin.me/dhruvchhura)](https://holopin.io/@dhruvchhura)
