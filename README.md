@@ -1,18 +1,22 @@
-<h2 align="left"> Hi there, I'm Dhruv Kumar. </h2>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px"> About Me:
 
-- 🏫 I’m currently a student of **BCA** at **Chandigarh University**, Mohali.
-- 📱 Maintaining **Redmi S2/Y2** for [**CipherOS**](https://github.com/CipherOS).
-- 💻 I'm Currently learning **ReactJS**.
-- ✔️ Languages/Tools I know are **C, HTML5, CSS3, BootStrap, JavaScript, Linux, Git, Shell programming (bash)**.
-- 📫 How to reach me: [**Telegram**](https://t.me/dhruvkumar1805).
+🏫 I’m currently a student of **BCA** at **Chandigarh University**, Mohali.<br>
+📱 Maintaining **Redmi S2/Y2** for [**CipherOS**](https://github.com/CipherOS). <br>
+👯 I’m looking to collaborate on **Open Source**.<br>
+💻 I'm Currently learning **NextJS**.<br>
+📫 How to reach me:<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvkumar_1805) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkumar1805) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkumar1805)
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=dhruvkumar1805"/>
-</p>
+# 💻 Tech Stack:
 
-<p align="center"> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvkumar1805&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Dhruv's Github Stats"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvkumar1805&layout=compact&langs_count=8&theme=tokyonight" alt="Dhruv's Github Stats"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sheel Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=dhruvkumar1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvkumar1805&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkumar1805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Dhruv's Holopin board](https://holopin.me/dhruvchhura)](https://holopin.io/@dhruvchhura)
+
+![](https://komarev.com/ghpvc/?username=dhruvkumar1805)
