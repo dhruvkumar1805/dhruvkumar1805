@@ -1,15 +1,15 @@
 <div>
-  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2AF7B4&random=false&width=500&lines=Hi%2C+I'm+Dhruv+Kumar+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;"/>
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2AF7B4&random=false&width=500&lines=Hi%2C+I'm+Dhruv+Kumar+%F0%9F%91%8B;Full-Stack+Developer;Rust+%26+Systems+Enthusiast;AI%2FLLM+Builder;Open+to+Work"/>
 </div>
 
 ## 👨‍💻 About Me
 
-I'm building **full-stack** web apps and diving deep into open-source Android development.
+I build full stack web apps end-to-end and occasionally drop down to systems level — Rust, Wayland, Linux internals.
 
-- 🔭 Currently building projects with **Next.js**, **TypeScript** and **Prisma**
-- 🌱 Exploring **system design** and **cloud deployments** on AWS / Azure
-- 🤝 Open to collaborating on **open-source projects**
-- 📫 Reach me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvkumar_1805) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkumar1805) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkumar1805)
+- 🚀 Shipped **Solvo** — a multi-tenant AI support platform with RAG, pgvector, and streaming replies
+- 🦀 Built **nekopet** — a Wayland desktop pet in Rust, implementing wlr-layer-shell from scratch
+- ☕ Delivered **Bunny's Cafe** — a production ordering system with OTP auth and Razorpay payments
+- 💼 Open to full-time roles and freelance — reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkumar1805) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvkumar1805)
 
 ---
 
@@ -22,10 +22,6 @@ I'm building **full-stack** web apps and diving deep into open-source Android de
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 **Backend & Databases**
@@ -36,23 +32,25 @@ I'm building **full-stack** web apps and diving deep into open-source Android de
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+**AI / LLM**
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **Cloud & DevOps**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 **Systems & Tools**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -75,7 +73,7 @@ I'm building **full-stack** web apps and diving deep into open-source Android de
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvkumar1805&color=2AF7B4&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruvkumar1805&color=green&style=flat-square" alt="Profile views"/>
   <br/>
   <sub>⭐ If you find my work helpful, consider giving a star to your favourite repo!</sub>
 </div>
